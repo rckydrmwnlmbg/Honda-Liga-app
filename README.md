@@ -1,18 +1,16 @@
-# LIGA HONDA — Mobile & Web Platform
+# LIGA HONDA App
 
-Mobile app and website built for the LIGA HONDA program, developed in partnership with PT Astra International Tbk (Honda).
+Mobile app + website I built for the LIGA HONDA program, in partnership with PT Astra International Tbk (Honda).
 
-## A note on this repository
-This project was originally developed locally between 2018 and 2021, before I adopted Git/GitHub as part of my standard workflow. The codebase was uploaded here later for portfolio purposes — which is why the commit history doesn't reflect the original multi-year development timeline. The application code itself dates from that period.
+## Heads up about this repo
+I built this back in 2018-2021, but I wasn't using Git back then — I just worked locally on my computer. I uploaded it here later once I realized having stuff on GitHub actually matters for showing my work to people. So don't mind the commit history, the code itself is from that period.
 
 ## What it does
-[TODO — Ricky: describe in 2-3 sentences what the app actually let users do, e.g. what LIGA HONDA participants/dealers used it for. Be specific and concrete, only include what you can describe accurately.]
+This was a platform for Honda's motorcycle communities (komunitas motor Honda) in Indonesia, run directly under Honda. Community admins could submit event proposals, create and promote their own events, and manage their member lists. Basically a bridge between Honda and all their motorcycle communities across the country.
 
-Built to support responsive, high-performance operations at national scale for the LIGA HONDA program.
-
-## Tech stack
-- Backend & web: Laravel (PHP), Blade templates
-- Mobile: Flutter
+## Built with
+- Laravel (PHP) + Blade for the backend/web
+- Flutter for mobile
 
 ## Contact
 Ricky Darmawan Lambogo — rickydarmawan212@gmail.com
